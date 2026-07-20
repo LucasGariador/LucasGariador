@@ -1,18 +1,20 @@
 # Hi there, I'm Lucas! 👋
 
-I'm a **Software Engineer and 3D Developer** with a strong focus on rendering engines, technical tooling, and scalable game architecture. I enjoy bridging the gap between low-level graphics programming and efficient content creation pipelines.
+I'm a **Software Engineer** specializing in **Backend Development and .NET Architectures**. With a strong foundation in building high-performance game engines and custom technical tooling, I bring a deep understanding of memory management, data optimization, and scalable systems to enterprise web services and distributed APIs.
 
-🌍 **Current Status:** Relocating to Madrid, Spain (March 2026) | Eligible for EU Work Permit / B2B Contracts.
+🌍 **Current Status:** Based in Madrid, Spain | Open to Remote, Hybrid, and B2B opportunities.
 
 ### 🛠️ What I'm working on
-* ⚙️ **Custom 2.5D Raycasting Engine:** Built from scratch in **C++ and SDL2** using the DDA algorithm with manual memory management and Z-buffer depth sorting.
-* 🐍 **3D Pipeline Tooling:** Developing desktop applications in **Python (PySide6)** to serialize map data and automate DCC-to-Engine workflows.
-* 🎮 **Commercial Game Architecture:** Designing high-performance, modular systems in **Unity (C#)** using Data-Oriented Design (DOTS/ECS) and SOLID principles.
+* ☁️ **Backend Architecture & APIs:** Designing robust RESTful services and scalable microservices using **.NET / C#**, integrating both relational and NoSQL databases for optimal data delivery.
+* 🐳 **Cloud & Infrastructure:** Containerizing applications and managing deployments utilizing **Docker and Kubernetes** to ensure high availability and CI/CD integration.
+* 🌐 **Real-time Web Services:** Built the core web backend and scoring systems for a commercial game studio, handling player concurrency, real-time data, and external API integrations.
+* ⚙️ **High-Performance Systems (Personal Project):** Maintaining my passion for low-level architecture by developing a custom 2.5D raycasting engine from scratch in **C++ and SDL2**, emphasizing manual memory management, DDA algorithms, and clean code principles.
 
 ### 💻 Tech Stack
-* **Languages:** C++, Python, C#, Java, HLSL/GLSL
-* **Frameworks & Engines:** Unity3D, SDL2, PySide6/PyQt, .NET
-* **Specialties:** Low-level Rendering, Tooling & Automation, Memory Management, Pipeline Development
+* **Backend & Frameworks:** C#, .NET 8 / .NET Core, ASP.NET Web API, Entity Framework, Dapper
+* **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB, Firestore
+* **DevOps & Architecture:** Docker, Kubernetes (Certified), Git, Clean Architecture, REST APIs
+* **Performance & Tooling:** C++, Python, Unity (DOTS/ECS), Blazor (Valued)
 
 ### 📫 Let's Connect
 * [LinkedIn](https://linkedin.com/in/lucas-nahuel-gariador/)
